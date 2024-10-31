@@ -1,0 +1,61 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f9;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Header Styling */
+header {
+    background-color: #0073e6;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Main Section Styling */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h2 {
+    color: #0073e6;
+    margin-bottom: 10px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* Footer Styling */
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #666;
+}
